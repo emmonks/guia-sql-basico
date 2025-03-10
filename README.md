@@ -1,4 +1,4 @@
-Livro " Guia Básico para Administração de Bancos de Dados PostgreSQL e MySQL (MariaDB)"
+# Livro " Guia Básico para Administração de Bancos de Dados PostgreSQL e MySQL (MariaDB)"
 
 Este livro tem como objetivo disponibilizar um guia prático para administração de bancos de dados PostgreSQL e MySQL (MariaDB). Estes bancos de dados são duas opções das mais populares em código-fonte aberto e são amplamente utilizados como repositório de dados em milhares de sistemas. Os sistemas gerenciadores de bancos de dados possuem uma linguagem padrão que é a SQL (Structure Query Language) usada para manipulação da estrutura e dos dados. Entretanto, diversas rotinas na administração de bancos de dados também utilizam o formato de queries SQL para interação. 
 
