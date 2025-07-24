@@ -22,3 +22,6 @@ Boa leitura!
 
 
 ## Versão 1 - https://github.com/emmonks/guia-sql-basico/releases/download/v1/GuiaBasicoAdmPostgreSQLeMySQL_v1.pdf
+## Versão 2 - https://github.com/emmonks/guia-sql-basico/releases/download/v2/GuiaBasicoAdmPostgreSQLeMySQL_v2.pdf
+## Disponível em formato físico - https://loja.uiclap.com/titulo/ua108141/
+
